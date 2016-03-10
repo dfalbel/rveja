@@ -1,0 +1,8 @@
+Package: rveja
+Title: Ferramenta Para Baixar Notícias do Site da Veja
+Version: 0.0.0.9000
+Authors@R: person("Daniel", "Falbel", , "dfalbel@gmail.com", role = c("aut", "cre"))
+Description: Ferramenta Para Baixar Notícias do Site da Veja
+Depends: R (>= 3.1.2)
+License: MIT
+LazyData: true

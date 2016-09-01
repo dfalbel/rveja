@@ -1,8 +1,9 @@
 Package: rveja
-Title: Ferramenta Para Baixar Notícias do Site da Veja
+Title: Tools to download and parse news from Veja website
 Version: 0.0.0.9000
 Authors@R: person("Daniel", "Falbel", , "dfalbel@gmail.com", role = c("aut", "cre"))
-Description: Ferramenta Para Baixar Notícias do Site da Veja
+Description: Tools to download and parse news from Veja website
 Depends: R (>= 3.1.2)
-License: MIT
+License: MIT + file LICENSE
+URL: https://github.com/dfalbel/rveja
 LazyData: true
